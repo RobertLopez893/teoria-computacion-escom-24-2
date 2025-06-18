@@ -14,7 +14,7 @@ Este repositorio contiene tres prácticas que cubren temas fundamentales de la T
 
 Cada práctica incluye la asignación correspondiente, el código de su solución y los archivos de apoyo necesarios.
 
-- **Práctica 1:** Solución programada en C++ junto con la asignación.
+- **Práctica 1:** Solución programada en C++ y Java junto con la asignación.
 - **Práctica 2:** Solución en Java, asignación y diagrama del AFD generado con [JFLAP](http://www.jflap.org/).
 - **Práctica 3:** Solución en Java, asignación, diagrama del Autómata de Pila (AP) generado en JFLAP y la GIC correspondiente.
 
